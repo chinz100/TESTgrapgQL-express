@@ -1,1 +1,1 @@
-"## LEARN GRAPHQL example test" 
+## LEARN GRAPHQL example test"
